@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Main: Skin Look And Feel
+
+Name: com/l2fprod/gui/plaf/skin
+Specification-Title: Skin Look And Feel
+Specification-Vendor: L2FProd.com
+Specification-Version: 1.2.3
+
+Name: com/l2fprod/gui/region
+Specification-Title: Skin Look And Feel
+Specification-Vendor: L2FProd.com
+Specification-Version: 1.2.3
+
